@@ -1,2 +1,1 @@
-# personalProjects
-An aggregate of Personal Projects
+# Personal Projects
