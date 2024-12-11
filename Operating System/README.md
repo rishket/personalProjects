@@ -19,3 +19,6 @@ Binaries: kernel.bin/bootloader.bin
 Makefile
 
 ISO Disk Image
+
+
+![Screenshot 2024-12-10 at 8 33 28 PM](https://github.com/user-attachments/assets/aff491f4-402a-44d8-9561-63bcd442c818)
