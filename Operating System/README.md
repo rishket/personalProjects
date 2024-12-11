@@ -11,7 +11,11 @@ This is an Operating System I made from scratch using an Ubuntu 14.04 VM and QEM
 **Contents:**
 
 *Bootloader - boot.asm/bootloader.asm*
+
 *Kernel - kernel.c*
+
 Binaries: kernel.bin/bootloader.bin
+
 Makefile
+
 ISO Disk Image
