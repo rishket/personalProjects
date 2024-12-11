@@ -61,7 +61,7 @@ $(GRUB_CFG):
 	@echo "Creating GRUB configuration..."
 	echo "set timeout=0" > $(GRUB_CFG)
 	echo "set default=0" >> $(GRUB_CFG)
-	echo 'menuentry "Rishi's Operating System" {' >> $(GRUB_CFG)
+	echo 'menuentry "Rishis Operating System" {' >> $(GRUB_CFG)
 	echo "    multiboot /boot/kernel.bin" >> $(GRUB_CFG)
 	echo "    boot" >> $(GRUB_CFG)
 	echo "}" >> $(GRUB_CFG)
