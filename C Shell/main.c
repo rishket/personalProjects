@@ -50,7 +50,7 @@ void lsh_loop(void)
     char **args;
     int status;
 
-    printf("Welcome to Rishi's Command Line Shell!");
+    printf("Welcome to Rishi's Command Line Shell!\n");
     do
     {
         printf(">>  ");
