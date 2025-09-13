@@ -1,6 +1,4 @@
-// Welcome to my first CLI Shell 
-// Programmed in C
-// Rishi Vadrevu
+// rkv
 
 #include <sys/wait.h>
 // waitpid() and associated macros
